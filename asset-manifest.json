@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CryptoCoinwebsite/static/css/main.8c6e4f54.css",
+    "main.js": "/CryptoCoinwebsite/static/js/main.1629a5c0.js",
+    "static/media/Rohit_gupta.jpg": "/CryptoCoinwebsite/static/media/Rohit_gupta.ba732a5ce309b06648ed.jpg",
+    "static/media/Download-3.png": "/CryptoCoinwebsite/static/media/Download-3.958da6d121eadc6208ef.png",
+    "static/media/download.png": "/CryptoCoinwebsite/static/media/download.d52d0e94f10d8746c3a6.png",
+    "index.html": "/CryptoCoinwebsite/index.html",
+    "main.8c6e4f54.css.map": "/CryptoCoinwebsite/static/css/main.8c6e4f54.css.map",
+    "main.1629a5c0.js.map": "/CryptoCoinwebsite/static/js/main.1629a5c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c6e4f54.css",
+    "static/js/main.1629a5c0.js"
+  ]
+}
